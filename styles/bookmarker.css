@@ -1,0 +1,12 @@
+.ytp-progress-bar-container .ytp-progress-bar
+.ytp-progress-list {
+    position: relative;
+}
+
+.bookmark {
+  width: 5px;
+  height: 10px;
+  background-color: #fc0;
+  border-radius: 10px;
+  z-index: 100;
+}
