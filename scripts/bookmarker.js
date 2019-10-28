@@ -1,5 +1,5 @@
 // constants for time being
-var bookmarkedTime = 630;
+var bookmarkedTime = 1230;
 
 function getTotalSeconds(durationText) {
   var duration = durationText.split(':');
